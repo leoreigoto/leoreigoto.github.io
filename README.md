@@ -31,10 +31,13 @@ extends to IoT, robotics, and automation. I’m consistently motivated by a rele
 ### Student attrition evasion 
 
 ### Obesity prediction with machine learning
+Objective: <TO_DO>
+Repository: https://github.com/leoreigoto/ObesityPrediction
 
 ### Object detection
 
 ### Automation of an aquaponic system
 
+### SQL client (sqlite + Tkinter)
 
 
