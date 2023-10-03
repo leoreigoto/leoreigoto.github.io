@@ -14,6 +14,7 @@ extends to IoT, robotics, and automation. I’m consistently motivated by a rele
 
 ## Some projects
 
+****************************************************************************************************************************************
 ### Using a neural network as a descriptor for keypoint extraction ( Comparing NN vs Shift)
 Objective: Testing to keypoint matching using shift descriptor vs neural network descriptor
 
@@ -21,6 +22,7 @@ Python, Computer Vision, Machine Learning
 
 Repository: TO_DO
 
+****************************************************************************************************************************************
 ### Control of a 6-DOF Robotic Arm 
 Objective:
 To integrate a SolidWorks model of a real-world robotic arm into a simulation environment. This project will derive and implement algorithms for the Kinematics, Inverse Kinematics, Dynamics, and Inverse Dynamics of the robotic arm, enabling accurate position and motion control.
@@ -34,6 +36,7 @@ I advice to simulate new tasks with the Forward Kinematics and trajectory planni
 
 ![](https://github.com/leoreigoto/leoreigoto.github.io/blob/main/Robot_Arm.gif)
 
+****************************************************************************************************************************************
 ### Image processing to enhance product serial number visibility 
 Objective: Improve the clarity of product serial numbers to boost Optical Character Recognition (OCR) accuracy and reliability.
 
@@ -48,7 +51,7 @@ The product serial numbers are inscribed in green letters on a transparent liqui
 ![image](https://github.com/leoreigoto/leoreigoto.github.io/assets/48571786/453c9ad5-174e-4fd8-85df-63a69d20d01b)
 
 
-
+****************************************************************************************************************************************
 ### Automated Conveyour Machine to OCR products serial number
 Objective: To design and prototype an autonomous conveyor belt system that can effectively read product serial numbers using Optical Character Recognition (OCR).
 
@@ -67,7 +70,7 @@ Some functions:
 
 ![](https://github.com/leoreigoto/leoreigoto.github.io/blob/main/ezgif-5-a74f56d3c2.gif)
 
-
+****************************************************************************************************************************************
 ### Detection of Zika Virus infection on mosquitoes using machine learning and spectroscopy
 Objective: Predict Zika Virus on mosquitoes using spectroscopy wavelenghts from 350nm to 1000nm
 
@@ -80,7 +83,7 @@ Repository: https://github.com/leoreigoto/ZikaVirusDetection
 
 ![image](https://github.com/leoreigoto/leoreigoto.github.io/assets/48571786/764bfe7c-0de1-4690-8aa2-a996bb3da6d8)
 
-
+****************************************************************************************************************************************
 ### Anomaly detection with GAN and autoencoders for tabular data
 Objective: TO_DO
 
@@ -88,6 +91,7 @@ Python, Machine Learning, GAN
 
 Repository: TO_DO
 
+****************************************************************************************************************************************
 ### OCR on a Tesla dashboard to monitor veihicle fleets
 Objective: To develop a real-time monitoring system for fleet management by capturing and analyzing critical data from a Tesla vehicle's dashboard using Optical Character Recognition (OCR). This system aims to ensure safe driving practices, efficient fleet operations
 
@@ -98,6 +102,7 @@ Python, Computer Vision, OpenCV, Websocket
 
 ![image](https://github.com/leoreigoto/leoreigoto.github.io/assets/48571786/f580dab0-7aff-45b9-ab27-4f30b02da133)
 
+****************************************************************************************************************************************
 ### Machine Learning Model for Obesity Level Prediction
 Objective:Develop a toy machine learning model to predict levels of obesity based on a publicly available dataset. This model aims to demonstrate the potential of machine learning in assessing health risks and guiding preventive measures.
 
@@ -106,6 +111,7 @@ Python, machine learning, classification task
 
 Repository: https://github.com/leoreigoto/ObesityPrediction
 
+****************************************************************************************************************************************
 ### Machine Learning Model for Estimating Student Attrition Risk Percentage
 Objective: To develop a toy machine learning model that estimates a student's risk percentage for attrition, assisting educational institutions in taking proactive measures to retain students.
 
@@ -115,7 +121,7 @@ Python, machine learning, classification task
 
 Repository: https://github.com/leoreigoto/student_evasion
 
-
+****************************************************************************************************************************************
 ### Object detection
 Objective: To develop a machine learning model capable of detecting and identifying multiple objects.
 
@@ -126,8 +132,7 @@ Python, computer vision, machine learning, YOLO
 
 ![image](https://github.com/leoreigoto/leoreigoto.github.io/assets/48571786/e3d715ad-3a0b-47da-9c18-baafb7897023)
 
-
-
+****************************************************************************************************************************************
 ### Automation of an aquaponic system
 Objective: To design and implement an automated aquaponic system, aiming to optimize resource utilization, improve system efficiency, and streamline the cultivation of both plants and aquatic organisms.
 
@@ -139,8 +144,7 @@ Repository: https://github.com/leoreigoto/aquaponic_system_automation
 
 ![image](https://github.com/leoreigoto/leoreigoto.github.io/assets/48571786/9f2ea1d6-e177-4228-8eb0-1088f54bfe4f)
 
-
-
+****************************************************************************************************************************************
 ### SQL client (sqlite + Tkinter)
 Objective: To create a simple SQL client that integrates SQLite for backend database management and Tkinter for frontend GUI development. This project serves as an exercise in practicing SQL queries and leveraging Tkinter as a tool for developing lightweight applications.
 
