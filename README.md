@@ -37,6 +37,9 @@ Repository: https://github.com/leoreigoto/ZikaVirusDetection
 
 ### OCR on a Tesla dashboard to monitor veihicle fleets
 
+![image](https://github.com/leoreigoto/leoreigoto.github.io/assets/48571786/f580dab0-7aff-45b9-ab27-4f30b02da133)
+
+
 ### Student attrition evasion 
 
 ### Obesity prediction with machine learning
