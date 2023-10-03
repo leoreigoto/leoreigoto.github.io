@@ -34,7 +34,7 @@ Repository: https://github.com/leoreigoto/robotic_arm_6_DoF
 Inside the repository there are 2 version. One of them have the full project and the other one only contains the Forward Kinematics and trajectory planning (simpler approach).
 I advice to simulate new tasks with the Forward Kinematics and trajectory planning before using the full version. It easier to debug this way.
 
-![](https://github.com/leoreigoto/leoreigoto.github.io/blob/main/Robot_Arm.gif)
+<img src="https://github.com/leoreigoto/leoreigoto.github.io/blob/main/Robot_Arm.gif" />
 
 ****************************************************************************************************************************************
 ### Image processing to enhance product serial number visibility 
