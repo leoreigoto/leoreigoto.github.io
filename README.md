@@ -16,7 +16,11 @@ extends to IoT, robotics, and automation. I’m consistently motivated by a rele
 
 ****************************************************************************************************************************************
 ### Using a neural network as a descriptor for keypoint extraction ( Comparing NN vs Shift)
-Objective: Testing to keypoint matching using shift descriptor vs neural network descriptor
+
+<b>Objective</b>
+
+Testing to keypoint matching using shift descriptor vs neural network descriptor
+
 
 Python, Computer Vision, Machine Learning
 
@@ -24,23 +28,30 @@ Repository: TO_DO
 
 ****************************************************************************************************************************************
 ### Control of a 6-DOF Robotic Arm 
-Objective:
+
+<b>Objective</b>
+
 To integrate a SolidWorks model of a real-world robotic arm into a simulation environment. This project will derive and implement algorithms for the Kinematics, Inverse Kinematics, Dynamics, and Inverse Dynamics of the robotic arm, enabling accurate position and motion control.
 
-Technologies:
+#### Technologies
+
 Matlab, Simulink, Robotics, Control and automation Engineering, PID Controller
 
-Repository: https://github.com/leoreigoto/robotic_arm_6_DoF
+####Repository: https://github.com/leoreigoto/robotic_arm_6_DoF####
 Inside the repository there are 2 version. One of them have the full project and the other one only contains the Forward Kinematics and trajectory planning (simpler approach).
 I advice to simulate new tasks with the Forward Kinematics and trajectory planning before using the full version. It easier to debug this way.
 
-<img src="https://github.com/leoreigoto/leoreigoto.github.io/blob/main/Robot_Arm.gif" />
+<img src="https://github.com/leoreigoto/leoreigoto.github.io/blob/main/Robot_Arm.gif?raw=true" />
 
 ****************************************************************************************************************************************
 ### Image processing to enhance product serial number visibility 
-Objective: Improve the clarity of product serial numbers to boost Optical Character Recognition (OCR) accuracy and reliability.
 
-Technologies:
+<b>Objective</b>
+
+Improve the clarity of product serial numbers to boost Optical Character Recognition (OCR) accuracy and reliability.
+
+<b>Technologies</b>
+
 Python, Computer Vision, OpenCV
 
 The product serial numbers are inscribed in green letters on a transparent liquid. To heighten the contrast, a red light — complementary to green — was employed. Various image processing techniques were then applied to further amplify the visibility of the letters under the red light, ensuring effective OCR readings.
@@ -53,7 +64,10 @@ The product serial numbers are inscribed in green letters on a transparent liqui
 
 ****************************************************************************************************************************************
 ### Automated Conveyour Machine to OCR products serial number
-Objective: To design and prototype an autonomous conveyor belt system that can effectively read product serial numbers using Optical Character Recognition (OCR).
+
+<b>Objective</b>
+
+To design and prototype an autonomous conveyor belt system that can effectively read product serial numbers using Optical Character Recognition (OCR).
 
 Technologies:
 Computer Vision, Automation, Engineering, Python, Ladder & PLC, IoT, Modbus (a communication protocol used to establish a connection between the PLC and computer vision software)
@@ -72,7 +86,10 @@ Some functions:
 
 ****************************************************************************************************************************************
 ### Detection of Zika Virus infection on mosquitoes using machine learning and spectroscopy
-Objective: Predict Zika Virus on mosquitoes using spectroscopy wavelenghts from 350nm to 1000nm
+
+<b>Objective</b>
+
+Predict Zika Virus on mosquitoes using spectroscopy wavelenghts from 350nm to 1000nm
 
 Technologies:
 Python, Machine Learning, Signal Processing
@@ -85,7 +102,9 @@ Repository: https://github.com/leoreigoto/ZikaVirusDetection
 
 ****************************************************************************************************************************************
 ### Anomaly detection with GAN and autoencoders for tabular data
-Objective: TO_DO
+
+<b>Objective</b>
+TO_DO
 
 Python, Machine Learning, GAN
 
@@ -93,7 +112,10 @@ Repository: TO_DO
 
 ****************************************************************************************************************************************
 ### OCR on a Tesla dashboard to monitor veihicle fleets
-Objective: To develop a real-time monitoring system for fleet management by capturing and analyzing critical data from a Tesla vehicle's dashboard using Optical Character Recognition (OCR). This system aims to ensure safe driving practices, efficient fleet operations
+
+<b>Objective</b>
+
+To develop a real-time monitoring system for fleet management by capturing and analyzing critical data from a Tesla vehicle's dashboard using Optical Character Recognition (OCR). This system aims to ensure safe driving practices, efficient fleet operations
 
 Tracks: Current vehicle speed, maximum permissible speed for the road, estimated battery longevity, Auto-pilot status (on/off).
 
@@ -104,7 +126,10 @@ Python, Computer Vision, OpenCV, Websocket
 
 ****************************************************************************************************************************************
 ### Machine Learning Model for Obesity Level Prediction
-Objective:Develop a toy machine learning model to predict levels of obesity based on a publicly available dataset. This model aims to demonstrate the potential of machine learning in assessing health risks and guiding preventive measures.
+
+<b>Objective</b>
+
+Develop a toy machine learning model to predict levels of obesity based on a publicly available dataset. This model aims to demonstrate the potential of machine learning in assessing health risks and guiding preventive measures.
 
 Technologies:
 Python, machine learning, classification task
@@ -113,7 +138,10 @@ Repository: https://github.com/leoreigoto/ObesityPrediction
 
 ****************************************************************************************************************************************
 ### Machine Learning Model for Estimating Student Attrition Risk Percentage
-Objective: To develop a toy machine learning model that estimates a student's risk percentage for attrition, assisting educational institutions in taking proactive measures to retain students.
+
+<b>Objective</b>
+
+To develop a toy machine learning model that estimates a student's risk percentage for attrition, assisting educational institutions in taking proactive measures to retain students.
 
 Technologies and Tools:
 
@@ -123,7 +151,10 @@ Repository: https://github.com/leoreigoto/student_evasion
 
 ****************************************************************************************************************************************
 ### Object detection
-Objective: To develop a machine learning model capable of detecting and identifying multiple objects.
+
+<b>Objective</b>
+
+To develop a machine learning model capable of detecting and identifying multiple objects.
 
 Technologies and Tools:
 Python, computer vision, machine learning, YOLO
@@ -134,7 +165,10 @@ Python, computer vision, machine learning, YOLO
 
 ****************************************************************************************************************************************
 ### Automation of an aquaponic system
-Objective: To design and implement an automated aquaponic system, aiming to optimize resource utilization, improve system efficiency, and streamline the cultivation of both plants and aquatic organisms.
+
+<b>Objective</b>
+
+To design and implement an automated aquaponic system, aiming to optimize resource utilization, improve system efficiency, and streamline the cultivation of both plants and aquatic organisms.
 
 C/C++ , IoT, Arduino, Automation, Engineering
 
@@ -146,7 +180,10 @@ Repository: https://github.com/leoreigoto/aquaponic_system_automation
 
 ****************************************************************************************************************************************
 ### SQL client (sqlite + Tkinter)
-Objective: To create a simple SQL client that integrates SQLite for backend database management and Tkinter for frontend GUI development. This project serves as an exercise in practicing SQL queries and leveraging Tkinter as a tool for developing lightweight applications.
+
+<b>Objective</b>
+
+To create a simple SQL client that integrates SQLite for backend database management and Tkinter for frontend GUI development. This project serves as an exercise in practicing SQL queries and leveraging Tkinter as a tool for developing lightweight applications.
 
 Technologies:
 Python, SQL, Tkinter
