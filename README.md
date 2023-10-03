@@ -22,13 +22,19 @@ extends to IoT, robotics, and automation. I’m consistently motivated by a rele
 
 ### Automated Conveyour Machine to OCR products serial number
 
+### Anomaly detection with GAN and autoencoders for tabular data
+
 ### Detection of Zika Virus infection on mosquitoes using machine learning and spectroscopy
 
 ### OCR on a Tesla dashboard to monitor veihicle fleets
 
-### Student attrition evasion capstone (machine learning exam at UFF)
+### Student attrition evasion 
+
+### Obesity prediction
 
 ### Object detection
+
+### Automation of an aquaponic system
 
 
 
