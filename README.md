@@ -15,18 +15,18 @@ extends to IoT, robotics, and automation. I’m consistently motivated by a rele
 ## Some projects
 
 ### Using a neural network as a descriptor for keypoint extraction ( Comparing NN vs Shift)
-Objective: <TO_DO>
+Objective: Testing to keypoint matching using shift descriptor vs neural network descriptor
 
 Python, Computer Vision, Machine Learning
 
-Repository: <TO_DO>
+Repository: TO_DO
 
 ### Control of a robotic arm with 6 degrees of freedom
-Objective: <TO_DO>
+Objective: TO_DO
 
 Matlab, Simulink, Robotics, Control and automation Engineering
 
-Repository: <TO_DO>
+Repository: TO_DO
 
 ![](https://github.com/leoreigoto/leoreigoto.github.io/blob/main/Robot_Arm.gif)
 
@@ -50,7 +50,17 @@ Objective: Build a prototype of a autonomous conveyour belt machine to OCR produ
 
 Computer Vision, Automation, Engineering, Python, Ladder, IoT , PLC, Modbus (communication protocol between the PLC and the computer vision software)
 
-<TO_DO> : add videos
+Successful reading:
+
+![](https://github.com/leoreigoto/leoreigoto.github.io/blob/main/ezgif-5-896300f6f4.gif)
+
+Reading error (alarm signal and stops the conveyour belt)
+
+![](https://github.com/leoreigoto/leoreigoto.github.io/blob/main/ezgif-5-be0d9822ef.gif)
+
+Some functions:
+
+![](https://github.com/leoreigoto/leoreigoto.github.io/blob/main/ezgif-5-a74f56d3c2.gif)
 
 
 ### Detection of Zika Virus infection on mosquitoes using machine learning and spectroscopy
@@ -65,16 +75,15 @@ Repository: https://github.com/leoreigoto/ZikaVirusDetection
 ![image](https://github.com/leoreigoto/leoreigoto.github.io/assets/48571786/764bfe7c-0de1-4690-8aa2-a996bb3da6d8)
 
 
-
 ### Anomaly detection with GAN and autoencoders for tabular data
-Objective: <TO_DO>
+Objective: TO_DO
 
 Python, Machine Learning, GAN
 
-Repository: <TO_DO>
+Repository: TO_DO
 
 ### OCR on a Tesla dashboard to monitor veihicle fleets
-Objective: <TO_DO>
+Objective: TO_DO
 
 Python, Computer Vision
 
@@ -100,14 +109,18 @@ Objective: Dectect multiple objects in a room
 
 Python, computer vision, machine learning
 
-<TO_DO>: add images 
+![image](https://github.com/leoreigoto/leoreigoto.github.io/assets/48571786/bd924460-6255-4a0e-837c-8bee87feb0b0)
+
+![image](https://github.com/leoreigoto/leoreigoto.github.io/assets/48571786/e3d715ad-3a0b-47da-9c18-baafb7897023)
+
+
 
 ### Automation of an aquaponic system
 Objective: Automate an aquaponic system
 
 C/C++ , IoT, Arduino, Automation, Engineering
 
-Repository: <TO_DO>
+Repository: https://github.com/leoreigoto/aquaponic_system_automation
 
 ![image](https://github.com/leoreigoto/leoreigoto.github.io/assets/48571786/4b2fc07e-a0b4-48c9-8f27-02b97eaa050f)
 
@@ -116,10 +129,10 @@ Repository: <TO_DO>
 
 
 ### SQL client (sqlite + Tkinter)
-Objective: <TO_DO>
+Objective: TO_DO
 
 Python, SQL, TKinter
 
-Repository:<TO_DO>
+Repository:TO_DO
 
 
