@@ -1,6 +1,7 @@
 # Welcome to my github
-I started this page on October 2023. At first I will buy some older codes, they are mostly simple tasks. Unfortunatelly most of my codes where for commercial use and I cant post them here, thought for a few of them I got permission to publish some description / screens, thats why some of doesn't have the code included.
-I plan on doing some side projects to publish here, feel free to check my github from time to time to look for updates.
+I established this page in October 2023. Initially, I'll be uploading some of my older codes, which are primarily straightforward tasks. Unfortunately, many of my projects were developed for commercial purposes, and I can't share the actual code here. However, for a select few, I've received permission to share descriptions and screenshots. So, please note that not all projects will have the accompanying code.
+
+I also plan to embark on some side projects and publish them here. I encourage you to check back occasionally for updates!
 
 I'm a machine learning researcher with a deep passion for machine learning and computer vision. Contributed
 to a university AI research group for three years and authored an article on Zika Virus detection in
