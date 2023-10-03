@@ -41,6 +41,8 @@ Objective:
 
 Computer Vision, Automation, Engineering, Python, Ladder, IoT , PLC
 
+<TO_DO> : add videos
+
 
 ### Detection of Zika Virus infection on mosquitoes using machine learning and spectroscopy
 Objective: Predict Zika Virus on mosquitoes using spectroscopy wavelenghts from 350nm to 1000nm
@@ -85,6 +87,11 @@ Repository: https://github.com/leoreigoto/student_evasion
 
 
 ### Object detection
+Objective: Dectect multiple objects in a room
+
+Python, computer vision, machine learning
+
+<TO_DO>: add images 
 
 ### Automation of an aquaponic system
 Objective: Automate an aquaponic system
