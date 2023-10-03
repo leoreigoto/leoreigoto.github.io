@@ -32,6 +32,7 @@ extends to IoT, robotics, and automation. I’m consistently motivated by a rele
 
 ### Obesity prediction with machine learning
 Objective: <TO_DO>
+
 Repository: https://github.com/leoreigoto/ObesityPrediction
 
 ### Object detection
