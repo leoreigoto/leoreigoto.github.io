@@ -35,11 +35,19 @@ Objective: Enhance product serial number to enable OCR reading.
 
 Python, Computer Vision
 
+The product consists of green letters on a transparent liquid. I used a red light (complementary color of green) to enhance letter contrast.
+I used image processing techniques to further enhance the letter visibility of the product under red light.
+
+![image](https://github.com/leoreigoto/leoreigoto.github.io/assets/48571786/ae0da63e-dd6f-4779-86e8-4263f96d76bd)
+
+![image](https://github.com/leoreigoto/leoreigoto.github.io/assets/48571786/453c9ad5-174e-4fd8-85df-63a69d20d01b)
+
+
 
 ### Automated Conveyour Machine to OCR products serial number
-Objective:
+Objective: Build a prototype of a autonomous conveyour belt machine to OCR products
 
-Computer Vision, Automation, Engineering, Python, Ladder, IoT , PLC
+Computer Vision, Automation, Engineering, Python, Ladder, IoT , PLC, Modbus (communication protocol between the PLC and the computer vision software)
 
 <TO_DO> : add videos
 
