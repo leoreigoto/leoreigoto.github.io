@@ -8,4 +8,5 @@ I plan on doing some side projects to publish here, feel free to check my github
 I'm a machine learning researcher. I got previous experience both as a researcher, a developer and working on the business side proposing and managing projects.
 My areas of passions are mainly computer vision and machine learning, but I also got knowledge of robotics , IoT and automation.
 
+![alt text](https://github.com/leoreigoto/leoreigoto.github.io/blob/main/1.jpg?raw=true) ![alt text](https://github.com/leoreigoto/leoreigoto.github.io/blob/main/2.jpg?raw=true)
 ### Some projects
