@@ -22,16 +22,25 @@ extends to IoT, robotics, and automation. I’m consistently motivated by a rele
 
 ### Automated Conveyour Machine to OCR products serial number
 
-### Anomaly detection with GAN and autoencoders for tabular data
-
 ### Detection of Zika Virus infection on mosquitoes using machine learning and spectroscopy
+Objective: Predict Zika Virus on mosquitoes using spectroscopy wavelenghts from 350nm to 1000nm
+
+Repository: https://github.com/leoreigoto/ZikaVirusDetection
+
+![image](https://github.com/leoreigoto/leoreigoto.github.io/assets/48571786/a378a2af-7fed-416c-ba73-1579ff736d0c)
+
+![image](https://github.com/leoreigoto/leoreigoto.github.io/assets/48571786/764bfe7c-0de1-4690-8aa2-a996bb3da6d8)
+
+
+
+### Anomaly detection with GAN and autoencoders for tabular data
 
 ### OCR on a Tesla dashboard to monitor veihicle fleets
 
 ### Student attrition evasion 
 
 ### Obesity prediction with machine learning
-Objective: <TO_DO>
+Objective: Toy model to predict Obesity Levels using a public dataset
 
 Repository: https://github.com/leoreigoto/ObesityPrediction
 
