@@ -30,7 +30,7 @@ extends to IoT, robotics, and automation. I’m consistently motivated by a rele
 
 ### Student attrition evasion 
 
-### Obesity prediction
+### Obesity prediction with machine learning
 
 ### Object detection
 
