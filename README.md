@@ -16,30 +16,37 @@ extends to IoT, robotics, and automation. I’m consistently motivated by a rele
 
 ### Using a neural network as a descriptor for keypoint extraction ( Comparing NN vs Shift)
 Objective: <TO_DO>
+
 Python, Computer Vision, Machine Learning
-Repository:
+
+Repository: <TO_DO>
 
 ### Control of a robotic arm with 6 degrees of freedom
 Objective: <TO_DO>
+
 Matlab, Simulink, Robotics, Control and automation Engineering
-Repository:
 
-![image](https://github.com/leoreigoto/leoreigoto.github.io/assets/48571786/bbeaec78-d79c-4a61-a38e-54f378c0065e)
+Repository: <TO_DO>
 
+![](https://github.com/leoreigoto/leoreigoto.github.io/blob/main/Robot_Arm.gif)
 
 ### Image processing to enhance product serial number visibility 
 Objective: Enhance product serial number to enable OCR reading.
+
 Python, Computer Vision
 
 
 ### Automated Conveyour Machine to OCR products serial number
 Objective:
+
 Computer Vision, Automation, Engineering, Python, Ladder, IoT , PLC
 
 
 ### Detection of Zika Virus infection on mosquitoes using machine learning and spectroscopy
 Objective: Predict Zika Virus on mosquitoes using spectroscopy wavelenghts from 350nm to 1000nm
+
 Python, Machine Learning, Signal Processing
+
 Repository: https://github.com/leoreigoto/ZikaVirusDetection
 
 ![image](https://github.com/leoreigoto/leoreigoto.github.io/assets/48571786/a378a2af-7fed-416c-ba73-1579ff736d0c)
@@ -50,29 +57,40 @@ Repository: https://github.com/leoreigoto/ZikaVirusDetection
 
 ### Anomaly detection with GAN and autoencoders for tabular data
 Objective: <TO_DO>
+
 Python, Machine Learning, GAN
+
 Repository: <TO_DO>
+
 ### OCR on a Tesla dashboard to monitor veihicle fleets
 Objective: <TO_DO>
+
 Python, Computer Vision
 
 ![image](https://github.com/leoreigoto/leoreigoto.github.io/assets/48571786/f580dab0-7aff-45b9-ab27-4f30b02da133)
 
 ### Obesity prediction with machine learning
 Objective: Toy model to predict Obesity Levels using a public dataset
+
 Python, machine learning, classification task
+
 Repository: https://github.com/leoreigoto/ObesityPrediction
 
 ### Student attrition evasion 
 Objective: Toy model to estimate a student attrition percentage risk
+
 Python, machine learning, classification task
+
 Repository: https://github.com/leoreigoto/student_evasion
+
 
 ### Object detection
 
 ### Automation of an aquaponic system
 Objective: Automate an aquaponic system
+
 C/C++ , IoT, Arduino, Automation, Engineering
+
 Repository: <TO_DO>
 
 ![image](https://github.com/leoreigoto/leoreigoto.github.io/assets/48571786/4b2fc07e-a0b4-48c9-8f27-02b97eaa050f)
@@ -83,7 +101,9 @@ Repository: <TO_DO>
 
 ### SQL client (sqlite + Tkinter)
 Objective: <TO_DO>
+
 Python, SQL, TKinter
+
 Repository:<TO_DO>
 
 
