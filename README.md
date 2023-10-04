@@ -31,7 +31,7 @@ Compare keypoint descriptors and matches from 2 images of the same scene with di
 
 Python, Computer Vision, Machine Learning
 
-<b>Repository:</b> https://github.com/leoreigoto/Keypoint_Descriptor_Match
+<b>Repository:</b> <a href="https://github.com/leoreigoto/Keypoint_Descriptor_Match">https://github.com/leoreigoto/Keypoint_Descriptor_Match</a>
 
 Original images:
 
@@ -58,7 +58,7 @@ To integrate a SolidWorks model of a real-world robotic arm into a simulation en
 
 Matlab, Simulink, Robotics, Control and automation Engineering, PID Controller
 
-<b>Repository:</b> https://github.com/leoreigoto/robotic_arm_6_DoF
+<b>Repository:</b> <a href="https://github.com/leoreigoto/robotic_arm_6_DoF">https://github.com/leoreigoto/robotic_arm_6_DoF</a>
 
 Inside the repository there are 2 version. One of them have the full project and the other one only contains the Forward Kinematics and trajectory planning (simpler approach).
 I advice to simulate new tasks with the Forward Kinematics and trajectory planning before using the full version. It easier to debug this way.
@@ -118,7 +118,7 @@ Predict Zika Virus on mosquitoes using spectroscopy wavelenghts from 350nm to 10
 
 Python, Machine Learning, Signal Processing
 
-<b>Repository:</b> https://github.com/leoreigoto/ZikaVirusDetection
+<b>Repository:</b> <a href="https://github.com/leoreigoto/ZikaVirusDetection">https://github.com/leoreigoto/ZikaVirusDetection</a>
 
 
 ![image](https://github.com/leoreigoto/leoreigoto.github.io/assets/48571786/a378a2af-7fed-416c-ba73-1579ff736d0c)
@@ -163,7 +163,7 @@ Develop a toy machine learning model to predict levels of obesity based on a pub
 
 Python, machine learning, classification task
 
-<b>Repository:</b> https://github.com/leoreigoto/ObesityPrediction
+<b>Repository:</b> <a href="https://github.com/leoreigoto/ObesityPrediction">https://github.com/leoreigoto/ObesityPrediction</a>
 
 The dataset uses SMOTE technique to increase it's data without giving the original data. This isn't advisable because it generates the following issues:
 
@@ -181,7 +181,8 @@ To develop a toy machine learning model that estimates a student's risk percenta
 
 Python, machine learning, classification task
 
-<b>Repository:</b> https://github.com/leoreigoto/student_evasion
+<b>Repository:</b> <a href="https://github.com/leoreigoto/student_evasion">https://github.com/leoreigoto/student_evasion</a>
+
 
 ****************************************************************************************************************************************
 ### Object detection
@@ -209,7 +210,7 @@ To design and implement an automated aquaponic system, aiming to optimize resour
 
 C/C++ , IoT, Arduino, Automation, Engineering
 
-<b>Repository:</b> https://github.com/leoreigoto/aquaponic_system_automation
+<b>Repository:</b> <a href="https://github.com/leoreigoto/aquaponic_system_automation">https://github.com/leoreigoto/aquaponic_system_automation</a>
 
 ![image](https://github.com/leoreigoto/leoreigoto.github.io/assets/48571786/4b2fc07e-a0b4-48c9-8f27-02b97eaa050f)
 
