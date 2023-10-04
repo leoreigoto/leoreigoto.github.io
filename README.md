@@ -14,17 +14,27 @@ extends to IoT, robotics, and automation. I’m consistently motivated by a rele
 
 ## Projects
 
--<b>1-  Using a neural network as a descriptor for keypoint extraction ( Comparing NN vs SIFT) <\b>
--<b>2-  Control of a 6-DOF Robotic Arm  <\b>
--<b>3-  Image processing to enhance product serial number visibility <\b>
--<b>4-  Automated Conveyour Machine to OCR products serial number <\b>
--<b>5-  Detection of Zika Virus infection on mosquitoes using machine learning and spectroscopy<\b>
--<b>6-  Anomaly detection with GAN and autoencoders for tabular data <\b>
--<b>7-  OCR on a Tesla dashboard to monitor veihicle fleets <\b>
--<b>8-  Machine Learning Model for Obesity Level Prediction <\b>
--<b>9-  Machine Learning Model for Estimating Student Attrition Risk Percentage<\b>
--<b>10- Object detection <\b>
--<b>11- SQL client (sqlite + Tkinter)<\b>
+-<b>1-  Using a neural network as a descriptor for keypoint extraction ( Comparing NN vs SIFT) </b>
+
+-<b>2-  Control of a 6-DOF Robotic Arm  </b>
+
+-<b>3-  Image processing to enhance product serial number visibility </b>
+
+-<b>4-  Automated Conveyour Machine to OCR products serial number </b>
+
+-<b>5-  Detection of Zika Virus infection on mosquitoes using machine learning and spectroscopy</b>
+
+-<b>6-  Anomaly detection with GAN and autoencoders for tabular data </b>
+
+-<b>7-  OCR on a Tesla dashboard to monitor veihicle fleets </b>
+
+-<b>8-  Machine Learning Model for Obesity Level Prediction </b>
+
+-<b>9-  Machine Learning Model for Estimating Student Attrition Risk Percentage</b>
+
+-<b>10- Object detection </b>
+
+-<b>11- SQL client (sqlite + Tkinter)</b>
 
 ****************************************************************************************************************************************
 ### Using a neural network as a descriptor for keypoint extraction ( Comparing NN vs SIFT)
