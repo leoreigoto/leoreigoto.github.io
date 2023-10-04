@@ -167,9 +167,10 @@ Python, machine learning, classification task
 
 The dataset uses SMOTE technique to increase it's data without giving the original data. This isn't advisable because it generates the following issues:
 
-<TO_DO>
+TO_DO
 
 ****************************************************************************************************************************************
+
 ### Machine Learning Model for Estimating Student Attrition Risk Percentage
 
 <b>Objective</b>
