@@ -120,6 +120,7 @@ Python, Machine Learning, Signal Processing
 
 <b>Repository:</b> https://github.com/leoreigoto/ZikaVirusDetection
 
+
 ![image](https://github.com/leoreigoto/leoreigoto.github.io/assets/48571786/a378a2af-7fed-416c-ba73-1579ff736d0c)
 
 ![image](https://github.com/leoreigoto/leoreigoto.github.io/assets/48571786/764bfe7c-0de1-4690-8aa2-a996bb3da6d8)
@@ -163,6 +164,10 @@ Develop a toy machine learning model to predict levels of obesity based on a pub
 Python, machine learning, classification task
 
 <b>Repository:</b> https://github.com/leoreigoto/ObesityPrediction
+
+The dataset uses SMOTE technique to increase it's data without giving the original data. This isn't advisable because it generates the following issues:
+
+<TO_DO>
 
 ****************************************************************************************************************************************
 ### Machine Learning Model for Estimating Student Attrition Risk Percentage
