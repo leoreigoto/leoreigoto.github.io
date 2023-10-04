@@ -12,7 +12,19 @@ extends to IoT, robotics, and automation. I’m consistently motivated by a rele
 
 ![image](https://github.com/leoreigoto/leoreigoto.github.io/assets/48571786/5b181360-0294-4fdf-9dd2-c68f01ce184d)
 
-## Some projects
+## Projects
+
+-<b>1-  Using a neural network as a descriptor for keypoint extraction ( Comparing NN vs SIFT) <\b>
+-<b>2-  Control of a 6-DOF Robotic Arm  <\b>
+-<b>3-  Image processing to enhance product serial number visibility <\b>
+-<b>4-  Automated Conveyour Machine to OCR products serial number <\b>
+-<b>5-  Detection of Zika Virus infection on mosquitoes using machine learning and spectroscopy<\b>
+-<b>6-  Anomaly detection with GAN and autoencoders for tabular data <\b>
+-<b>7-  OCR on a Tesla dashboard to monitor veihicle fleets <\b>
+-<b>8-  Machine Learning Model for Obesity Level Prediction <\b>
+-<b>9-  Machine Learning Model for Estimating Student Attrition Risk Percentage<\b>
+-<b>10- Object detection <\b>
+-<b>11- SQL client (sqlite + Tkinter)<\b>
 
 ****************************************************************************************************************************************
 ### Using a neural network as a descriptor for keypoint extraction ( Comparing NN vs SIFT)
@@ -39,7 +51,7 @@ Original images:
 
 Descriptors from NN
 
-The descriptors represents the squares from the images bellow. Initially there are 3 descriptors that are combined into one descriptors
+In the context of this project, the descriptors represent each square marked in the image below. Initially there are 3 descriptors that are combined into one.
 
 ![image](https://github.com/leoreigoto/leoreigoto.github.io/assets/48571786/b94760d5-256c-4104-b7f3-ae946de7db9f)
 
