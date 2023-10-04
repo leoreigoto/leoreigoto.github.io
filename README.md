@@ -45,6 +45,9 @@ The descriptors represents the squares from the images bellow. Initially there a
 
 Results
 
+![image](https://github.com/leoreigoto/leoreigoto.github.io/assets/48571786/ad240ddf-25d0-4031-a7ab-d8d094fb6556)
+
+
 ![image](https://github.com/leoreigoto/leoreigoto.github.io/assets/48571786/c4e6d09e-7e0a-4602-977a-c85971bcc973)
 
 ****************************************************************************************************************************************
