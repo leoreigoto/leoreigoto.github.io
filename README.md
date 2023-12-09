@@ -92,7 +92,9 @@ The repository contains :
 - video in portuguese explaining the project
   
  TO DO: translate it (this video was done for a discipline in my masters course)
+ 
 [![Stock and Production Management System](https://github.com/leoreigoto/leoreigoto.github.io/assets/48571786/69031dd7-e11c-495d-8539-698568b8f626)](https://youtu.be/Y4ufX6tZl0U?t=184 "Stock and Production Management System")
+
 - article in portuguese explaining the project
 
 TO DO: translate it
@@ -241,6 +243,7 @@ Python, machine learning, classification task
 <b>Repository:</b> <a href="https://github.com/leoreigoto/student_evasion">https://github.com/leoreigoto/student_evasion</a>
 
 The repository contains: dataset, code and a technical article.
+
 ![image](https://github.com/leoreigoto/leoreigoto.github.io/assets/48571786/c8214f90-ed25-4df0-9576-3e9ba2930a6e)
 
 ****************************************************************************************************************************************
