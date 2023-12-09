@@ -219,10 +219,12 @@ The repository contains the dataset, the code and a technical article.
 
 
 <b>Issues in the dataset:</b>
+
 The dataset utilizes the SMOTE technique to augment its data and doesnt share the original data. The SMOTE process was applied prior to dividing the data into training and test sets. This renders the dataset unreliable for practical use as it leads to <b> data leak </b>.
 
-<b>Data leak<\b> occurs because SMOTE uses different data to generate a new data point by interpolating between the 'parent' data points. We could have the <b>'parent' and 'child' data mixed in training/validation/test, which leads to data leakage as test data is being used to generate one new training data.<\b>
-The correct approach would be to first separate the data and then use SMOTE. Another problem is that <b>SMOTE solves the imbalance issue but does not address the lack of representativeness of input data for each class due to data scarcity<\b>. For example, in OBS III, all instances have FCVC = 3.
+<b>Data leak</b> occurs because SMOTE uses different data to generate a new data point by interpolating between the 'parent' data points. We could have the <b>'parent' and 'child' data mixed in training/validation/test, which leads to data leakage as test data is being used to generate one new training data.</b>
+
+The correct approach would be to first separate the data and then use SMOTE. Another problem is that <b>SMOTE solves the imbalance issue but does not address the lack of representativeness of input data for each class due to data scarcity</b>. For example, in OBS III, all instances have FCVC = 3.
 
 
 
