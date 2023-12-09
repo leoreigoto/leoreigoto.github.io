@@ -16,7 +16,7 @@ extends to IoT, robotics, and automation. I’m consistently motivated by a rele
 
 -<b>1-  Using a neural network as a descriptor for keypoint extraction ( Comparing NN vs SIFT) </b>
 
--<b>2-  Inventory and Production Management System (C++ data structure project)
+-<b>2-  Inventory and Production Management System (C++ data structure project)</b>
  
 -<b>3-  Control of a 6-DOF Robotic Arm  </b>
 
@@ -86,7 +86,8 @@ Create a system that uses queue and deque structures to manage a factory and aut
 C++, data structure
 
 <b>Repository:</b> <a href="https://github.com/leoreigoto/Production_and_stock_management_system/">https://github.com/leoreigoto/Production_and_stock_management_system/</a>
-Inside the repository there are :
+
+The repository contains :
 - english version of the code
 - video in portuguese explaining the project
   
