@@ -14,10 +14,10 @@ extends to IoT, robotics, and automation. I’m consistently motivated by a rele
 
 ## Projects
 
--<b>1-  Using a neural network as a descriptor for keypoint extraction ( Comparing NN vs SIFT) </b>
+-<b>1-  Inventory and Production Management System (C++ data structure project)</b>
 
--<b>2-  Inventory and Production Management System (C++ data structure project)</b>
- 
+-<b>2-  Using a neural network as a descriptor for keypoint extraction ( Comparing NN vs SIFT) </b>
+
 -<b>3-  Control of a 6-DOF Robotic Arm  </b>
 
 -<b>4-  Image processing to enhance product serial number visibility </b>
@@ -37,6 +37,31 @@ extends to IoT, robotics, and automation. I’m consistently motivated by a rele
 -<b>11- Object detection </b>
 
 -<b>12- SQL client (sqlite + Tkinter)</b>
+
+****************************************************************************************************************************************
+### Stock and Production Management System (C++ data structure project)
+
+<b>Objective</b>
+
+Create a system that uses queue and deque structures to manage a factory and automate the creation of manufacturing orders based on branches stocks levels. The ideia its that this system could be used alongside readings from systems like RFID as a middleware before sending the data to an ERP. This would be an open-source replacement to RFID suppliers middlewares and would be highly scalable and easy to personalize with new funcionalities for each specific business (ie: on the proejct is implemented the system to generate manufacturing orders based on stock levels and management of production station queues)
+
+<b>Technologies and Tools</b>
+
+C++, data structure
+
+<b>Repository:</b> <a href="https://github.com/leoreigoto/Production_and_stock_management_system/">https://github.com/leoreigoto/Production_and_stock_management_system/</a>
+
+The repository contains :
+- english version of the code
+- video in portuguese explaining the project
+  
+ TO DO: translate it (this video was done for a discipline in my masters course)
+ 
+[![Stock and Production Management System](https://github.com/leoreigoto/leoreigoto.github.io/assets/48571786/69031dd7-e11c-495d-8539-698568b8f626)](https://youtu.be/Y4ufX6tZl0U?t=184 "Stock and Production Management System")
+
+- article in portuguese explaining the project
+
+TO DO: translate it
 
 ****************************************************************************************************************************************
 ### Using a neural network as a descriptor for keypoint extraction ( Comparing NN vs SIFT)
@@ -73,31 +98,6 @@ Results
 
 
 ![image](https://github.com/leoreigoto/leoreigoto.github.io/assets/48571786/c4e6d09e-7e0a-4602-977a-c85971bcc973)
-
-****************************************************************************************************************************************
-### Stock and Production Management System (C++ data structure project)
-
-<b>Objective</b>
-
-Create a system that uses queue and deque structures to manage a factory and automate the creation of manufacturing orders based on branches stocks levels. The ideia its that this system could be used alongside readings from systems like RFID as a middleware before sending the data to an ERP. This would be an open-source replacement to RFID suppliers middlewares and would be highly scalable and easy to personalize with new funcionalities for each specific business (ie: on the proejct is implemented the system to generate manufacturing orders based on stock levels and management of production station queues)
-
-<b>Technologies and Tools</b>
-
-C++, data structure
-
-<b>Repository:</b> <a href="https://github.com/leoreigoto/Production_and_stock_management_system/">https://github.com/leoreigoto/Production_and_stock_management_system/</a>
-
-The repository contains :
-- english version of the code
-- video in portuguese explaining the project
-  
- TO DO: translate it (this video was done for a discipline in my masters course)
- 
-[![Stock and Production Management System](https://github.com/leoreigoto/leoreigoto.github.io/assets/48571786/69031dd7-e11c-495d-8539-698568b8f626)](https://youtu.be/Y4ufX6tZl0U?t=184 "Stock and Production Management System")
-
-- article in portuguese explaining the project
-
-TO DO: translate it
 
 ****************************************************************************************************************************************
 ### Control of a 6-DOF Robotic Arm 
