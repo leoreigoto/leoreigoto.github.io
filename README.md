@@ -14,7 +14,7 @@ extends to IoT, robotics, and automation. I’m consistently motivated by a rele
 
 ## Projects
 
--<b>1-  Inventory and Production Management System (C++ data structure project)</b>
+-<b>1-  Stock and Production Management System (C++ data structure project)</b>
 
 -<b>2-  Using a neural network as a descriptor for keypoint extraction ( Comparing NN vs SIFT) </b>
 
