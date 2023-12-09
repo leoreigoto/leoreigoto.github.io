@@ -213,10 +213,7 @@ Develop a toy machine learning model to predict levels of obesity based on a pub
 Python, machine learning, classification task
 
 <b>Repository:</b> <a href="https://github.com/leoreigoto/ObesityPrediction">https://github.com/leoreigoto/ObesityPrediction</a>
-The repository contains the dataset, the code and a technical article.
-![image](https://github.com/leoreigoto/leoreigoto.github.io/assets/48571786/c8214f90-ed25-4df0-9576-3e9ba2930a6e)
-
-
+The repository contains: dataset and code.
 
 <b>Issues in the dataset:</b>
 
@@ -242,6 +239,8 @@ Python, machine learning, classification task
 
 <b>Repository:</b> <a href="https://github.com/leoreigoto/student_evasion">https://github.com/leoreigoto/student_evasion</a>
 
+The repository contains: dataset, code and a technical article.
+![image](https://github.com/leoreigoto/leoreigoto.github.io/assets/48571786/c8214f90-ed25-4df0-9576-3e9ba2930a6e)
 
 ****************************************************************************************************************************************
 ### Object detection
