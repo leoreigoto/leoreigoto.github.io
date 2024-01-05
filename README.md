@@ -1,8 +1,4 @@
 # Welcome to my github
-I established this page in October 2023. Initially, I'll be uploading some of my older codes, which are primarily straightforward tasks. Unfortunately, many of my projects were developed for commercial purposes, and I can't share the actual code here. However, for a select few, I've received permission to share descriptions and screenshots. So, please note that not all projects will have the accompanying code.
-
-I also plan to embark on some side projects and publish them here. I encourage you to check back occasionally for updates!
-
 I'm a machine learning researcher with a deep passion for machine learning and computer vision. Contributed
 to a university AI research group for three years and authored an article on Zika Virus detection in
 mosquitoes. I hold a bachelor's in Control and Automation Engineering and am pursuing a master's in
@@ -14,29 +10,28 @@ extends to IoT, robotics, and automation. I’m consistently motivated by a rele
 
 ## Projects
 
--<b>1-  Stock and Production Management System (C++ data structure project)</b>
+<b> 1-  Stock and Production Management System (C++ data structure project) </b>
 
--<b>2-  Using a neural network as a descriptor for keypoint extraction ( Comparing NN vs SIFT) </b>
+<b> 2-  Using a neural network as a descriptor for keypoint extraction ( Comparing NN vs SIFT) </b>
 
--<b>3-  Control of a 6-DOF Robotic Arm  </b>
+<b> 3-  Control of a 6-DOF Robotic Arm  </b>
 
--<b>4-  Image processing to enhance product serial number visibility </b>
+<b> 4-  Image processing to enhance product serial number visibility </b>
 
--<b>5-  Automated Conveyour Machine to OCR products serial number </b>
+<b> 5-  Automated Conveyour Machine to OCR products serial number </b>
 
--<b>6-  Detection of Zika Virus infection on mosquitoes using machine learning and spectroscopy</b>
+<b> 6-  Detection of Zika Virus infection on mosquitoes using machine learning and spectroscopy</b>
 
--<b>7-  Anomaly detection with GAN and autoencoders for tabular data </b>
+<b> 7-  OCR on a Tesla dashboard to monitor veihicle fleets </b>
 
--<b>8-  OCR on a Tesla dashboard to monitor veihicle fleets </b>
+<b> 8-  Machine Learning Model for Obesity Level Prediction </b>
 
--<b>9-  Machine Learning Model for Obesity Level Prediction </b>
+<b> 9-  Machine Learning Model for Estimating Student Attrition Risk Percentage</b>
 
--<b>10-  Machine Learning Model for Estimating Student Attrition Risk Percentage</b>
+<b> 10- Object detection </b>
 
--<b>11- Object detection </b>
+<b> 11- SQL client (sqlite + Tkinter)</b>
 
--<b>12- SQL client (sqlite + Tkinter)</b>
 
 ****************************************************************************************************************************************
 ### Stock and Production Management System (C++ data structure project)
@@ -176,18 +171,6 @@ Python, Machine Learning, Signal Processing
 ![image](https://github.com/leoreigoto/leoreigoto.github.io/assets/48571786/a378a2af-7fed-416c-ba73-1579ff736d0c)
 
 ![image](https://github.com/leoreigoto/leoreigoto.github.io/assets/48571786/764bfe7c-0de1-4690-8aa2-a996bb3da6d8)
-
-****************************************************************************************************************************************
-### Anomaly detection with GAN and autoencoders for tabular data
-
-<b>Objective</b>
-TO_DO
-
-<b>Technologies and Tools</b>
-
-Python, Machine Learning, GAN
-
-<b>Repository:</b> TO_DO
 
 ****************************************************************************************************************************************
 ### OCR on a Tesla dashboard to monitor veihicle fleets
