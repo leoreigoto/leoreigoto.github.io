@@ -12,25 +12,25 @@ extends to IoT, robotics, and automation. I’m consistently motivated by a rele
 
 <b> 1- Moving a ML model to production using MLFlow, Docker and Fastapi
 
-<b> 2-  Stock and Production Management System (C++ data structure project) </b>
+<b> 2- Object detection with Detectron 2 and MLFlow (vehicle registration plate)
 
-<b> 3-  Using a neural network as a descriptor for keypoint extraction ( Comparing NN vs SIFT) </b>
+<b> 3-  Stock and Production Management System (C++ data structure project) </b>
 
-<b> 4-  Control of a 6-DOF Robotic Arm  </b>
+<b> 4-  Using a neural network as a descriptor for keypoint extraction ( Comparing NN vs SIFT) </b>
 
-<b> 5-  Image processing to enhance product serial number visibility </b>
+<b> 5-  Control of a 6-DOF Robotic Arm  </b>
 
-<b> 6-  Automated Conveyour Machine to OCR products serial number </b>
+<b> 6-  Image processing to enhance product serial number visibility </b>
 
-<b> 7-  Detection of Zika Virus infection on mosquitoes using machine learning and spectroscopy</b>
+<b> 7-  Automated Conveyour Machine to OCR products serial number </b>
 
-<b> 8-  OCR on a Tesla dashboard to monitor veihicle fleets </b>
+<b> 8-  Detection of Zika Virus infection on mosquitoes using machine learning and spectroscopy</b>
 
-<b> 9-  Machine Learning Model for Obesity Level Prediction </b>
+<b> 9-  OCR on a Tesla dashboard to monitor veihicle fleets </b>
 
-<b> 10-  Machine Learning Model for Estimating Student Attrition Risk Percentage</b>
+<b> 10-  Machine Learning Model for Obesity Level Prediction </b>
 
-<b> 11- Object detection </b>
+<b> 11-  Machine Learning Model for Estimating Student Attrition Risk Percentage</b>
 
 <b> 12- SQL client (sqlite + Tkinter)</b>
 
@@ -56,6 +56,33 @@ Python, Machine Learning, MLOps, sklearn, docker, fastapi, mlflow
 
 
 ****************************************************************************************************************************************
+
+# Object detection with Detectron 2 and MLFlow (vehicle registration plate)
+
+Objective:
+- Train an algorithm to detect vehicle registration plate using detectron 2 and share training logs with MLFlow
+
+Technologies and Tools:
+SSD, Detectron 2, RetinaNet, MLFlow, Pytorch
+
+Detection Video:
+
+[![Vehicle plate detection_video](https://github.com/leoreigoto/leoreigoto.github.io/assets/48571786/a4d4c26e-1583-4875-a48f-78854fdd825d)](https://youtu.be/9CXzoeELtys?t=4 "Vehicle plate detection_video")
+
+
+Mlflow logs:
+
+![image](https://github.com/leoreigoto/leoreigoto.github.io/assets/48571786/5311a9f9-c2bd-41e5-89ad-060135acbacd)
+
+https://dagshub.com/leoreigoto/Object_Detection_Vehicle_Plate.mlflow
+
+Drive Files:
+
+https://drive.google.com/drive/folders/1j1-oKIcoQC7N5lT8SDOnHBiBxDZ21q5C
+
+<b>Repository:</b> [<a href="https://github.com/leoreigoto/Production_and_stock_management_system/">https://github.com/leoreigoto/Production_and_stock_management_system/</a>](https://github.com/leoreigoto/Object_Detection_Detectron2_MLFlow)
+
+
 
 ****************************************************************************************************************************************
 ### Stock and Production Management System (C++ data structure project)
@@ -253,20 +280,6 @@ The repository contains: dataset, code and a technical article.
 
 ![image](https://github.com/leoreigoto/leoreigoto.github.io/assets/48571786/c8214f90-ed25-4df0-9576-3e9ba2930a6e)
 
-****************************************************************************************************************************************
-### Object detection
-
-<b>Objective</b>
-
-To develop a machine learning model capable of detecting and identifying multiple objects.
-
-<b>Technologies and Tools</b>
-
-Python, computer vision, machine learning, YOLO
-
-![image](https://github.com/leoreigoto/leoreigoto.github.io/assets/48571786/bd924460-6255-4a0e-837c-8bee87feb0b0)
-
-![image](https://github.com/leoreigoto/leoreigoto.github.io/assets/48571786/e3d715ad-3a0b-47da-9c18-baafb7897023)
 
 ****************************************************************************************************************************************
 ### Automation of an aquaponic system
