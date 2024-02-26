@@ -50,6 +50,9 @@ extends to IoT, robotics, and automation. I’m consistently motivated by a rele
 
 Python, Machine Learning, MLOps, sklearn, docker, fastapi, mlflow
 
+![image](https://github.com/leoreigoto/leoreigoto.github.io/assets/48571786/59845023-35aa-48e5-8702-e53b9c00004c)
+
+
 <b>Repository:</b> <a href="https://github.com/leoreigoto/House_Price_API">https://github.com/leoreigoto/House_Price_API</a>
 
 
