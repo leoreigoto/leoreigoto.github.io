@@ -20,19 +20,17 @@ extends to IoT, robotics, and automation. I’m consistently motivated by a rele
 
 <b> 5-  Control of a 6-DOF Robotic Arm  </b>
 
-<b> 6-  Image processing to enhance product serial number visibility </b>
+<b> 6-  Automated Conveyour Machine to OCR products serial number </b>
 
-<b> 7-  Automated Conveyour Machine to OCR products serial number </b>
+<b> 7-  Detection of Zika Virus infection on mosquitoes using machine learning and spectroscopy</b>
 
-<b> 8-  Detection of Zika Virus infection on mosquitoes using machine learning and spectroscopy</b>
+<b> 8-  OCR on a Tesla dashboard to monitor veihicle fleets </b>
 
-<b> 9-  OCR on a Tesla dashboard to monitor veihicle fleets </b>
+<b> 9-  Machine Learning Model for Obesity Level Prediction </b>
 
-<b> 10-  Machine Learning Model for Obesity Level Prediction </b>
+<b> 10-  Machine Learning Model for Estimating Student Attrition Risk Percentage</b>
 
-<b> 11-  Machine Learning Model for Estimating Student Attrition Risk Percentage</b>
-
-<b> 12- SQL client (sqlite + Tkinter)</b>
+<b> 11- SQL client (sqlite + Tkinter)</b>
 
 ****************************************************************************************************************************************
 ### Moving a ML model to production using MLFlow, Docker and Fastapi
