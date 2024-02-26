@@ -163,24 +163,6 @@ I advice to simulate new tasks with the Forward Kinematics and trajectory planni
 
 <img src="https://github.com/leoreigoto/leoreigoto.github.io/blob/main/Robot_Arm.gif?raw=true" />
 
-****************************************************************************************************************************************
-### Image processing to enhance product serial number visibility 
-
-<b>Objective</b>
-
-Improve the clarity of product serial numbers to boost Optical Character Recognition (OCR) accuracy and reliability.
-
-<b>Technologies and Tools</b>
-
-Python, Computer Vision, OpenCV
-
-The product serial numbers are inscribed in green letters on a transparent liquid. To heighten the contrast, a red light — complementary to green — was employed. Various image processing techniques were then applied to further amplify the visibility of the letters under the red light, ensuring effective OCR readings.
-
-![image](https://github.com/leoreigoto/leoreigoto.github.io/assets/48571786/e9980faf-5bda-432d-a30c-c8b85bf7bf3f)
-
-
-![image](https://github.com/leoreigoto/leoreigoto.github.io/assets/48571786/453c9ad5-174e-4fd8-85df-63a69d20d01b)
-
 
 ****************************************************************************************************************************************
 ### Automated Conveyour Machine to OCR products serial number
