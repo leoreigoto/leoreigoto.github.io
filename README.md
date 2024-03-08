@@ -81,7 +81,7 @@ Drive Files:
 
 https://drive.google.com/drive/folders/1j1-oKIcoQC7N5lT8SDOnHBiBxDZ21q5C
 
-<b>Repository:</b> [<a href="https://github.com/leoreigoto/Object_Detection_Detectron2_MLFlow">https://github.com/leoreigoto/Object_Detection_Detectron2_MLFlow</a>]
+<b>Repository:</b> <a href="https://github.com/leoreigoto/Object_Detection_Detectron2_MLFlow">https://github.com/leoreigoto/Object_Detection_Detectron2_MLFlow</a>
 
 
 ****************************************************************************************************************************************
