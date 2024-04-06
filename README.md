@@ -2,8 +2,9 @@
 I'm a machine learning researcher with a deep passion for machine learning and computer vision. Contributed
 to a university AI research group for three years and authored an article on Zika Virus detection in
 mosquitoes. I hold a bachelor's in Control and Automation Engineering and am pursuing a master's in
-Computer Science at Universidade Federal Fluminense. My career began in a machine learning startup;
-now, I spearhead AI-driven solutions and lead digital transformation. Beyond AI, my technical expertise
+Computer Science at Universidade Federal Fluminense. My career began at a machine learning startup. Later, 
+I spearheaded AI-driven solutions and led digital transformation initiatives in a manufacturing company. 
+Currently, I work at a consulting company as a Machine Learning Engineer. Beyond AI, my technical expertise
 extends to IoT, robotics, and automation. I’m consistently motivated by a relentless desire to innovate.
 
 ![image](https://github.com/leoreigoto/leoreigoto.github.io/assets/48571786/5b181360-0294-4fdf-9dd2-c68f01ce184d)
